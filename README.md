@@ -1,1 +1,3 @@
 # RStudio-Airbnb-Data-Mining
+
+Focused on leveraging data mining techniques to optimize Airbnb's business operations: By analyzing a comprehensive dataset of Airbnb listings, the team applied various machine learning models to predict high booking rates for Airbnb listings. The goal is to provide actionable insights for Airbnb hosts and property management companies to optimize their listing strategies. A key achievement of the project was enhancing the accuracy of these models, ensuring more precise predictions that could significantly improve Airbnb's market positioning and customer satisfaction strategies.
